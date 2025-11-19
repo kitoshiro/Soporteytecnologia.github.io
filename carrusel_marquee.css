@@ -70,7 +70,7 @@
 }
 
 /* ---------------------------------- */
-/* 4. MARQUESINA DE NOTICIAS */
+/* 4. MARQUESINA DE MARCAS */
 /* ---------------------------------- */
 #marquesina-section {
     padding: 1.25rem 5%;
@@ -91,7 +91,7 @@
 
 #marquesina-content {
     display: inline-flex;
-    animation: marquee-anim 50s linear infinite;
+    animation: marquee-anim 60s linear infinite;
 }
 
 .marquesina-item {
@@ -105,7 +105,7 @@
 }
 
 .marquesina-img {
-    height: 9.375rem;
+    height: 12 rem;
     width: auto;
     margin-right: 0.625rem;
     object-fit: contain;
